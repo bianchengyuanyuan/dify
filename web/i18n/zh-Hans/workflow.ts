@@ -232,6 +232,7 @@ const translation = {
     'iteration': '迭代',
     'parameter-extractor': '参数提取器',
     'document-extractor': '文档提取器',
+    'table-extractor': '表格提取器',
     'list-operator': '列表操作',
   },
   blocksAbout: {
@@ -251,6 +252,7 @@ const translation = {
     'iteration': '对列表对象执行多次步骤直至输出所有结果。',
     'parameter-extractor': '利用 LLM 从自然语言内推理提取出结构化参数，用于后置的工具调用或 HTTP 请求。',
     'document-extractor': '用于将用户上传的文档解析为 LLM 便于理解的文本内容。',
+    'table-extractor': '用于将用户上传的文档提取表格解析为excel 表格内容。',
     'list-operator': '用于过滤或排序数组内容。',
   },
   operator: {
